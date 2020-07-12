@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>HTML <a> Tag</title>
+</head>
+
+<body>
+  <a href="https://www.google.com">Visit Google!</a>
+</body>
+
+</html>
