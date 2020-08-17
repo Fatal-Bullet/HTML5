@@ -1,6 +1,6 @@
 Tag       | Description
 --------- | ------
-<!DOCTYPE>| Defines the document type
+!DOCTYPE  | Defines the document type
 --------- | ------
  <A>      | Defines a hyperlink
 --------- | ------
