@@ -1,4 +1,4 @@
-Tag | Description
+Tag       | Description
 --------- | ------
 <!--...-->| Defines a comment
 Feijão    | R$ 8
