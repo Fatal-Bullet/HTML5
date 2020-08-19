@@ -4,6 +4,6 @@ Tag       | Description
 --------- | ------
  <A>      | Defines a hyperlink
 --------- | ------
-Batata    | R$ 7
+Batata    | ------
 --------- | ------
 Macarrão  | R$ 8
