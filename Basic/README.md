@@ -6,4 +6,4 @@ Tag       | Description
 --------- | ------
 Batata    | ------
 --------- | ------
-Macarrão  | R$ 8
+Macarrão  | ------
