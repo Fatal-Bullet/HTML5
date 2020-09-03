@@ -1,7 +1,7 @@
 Tag       | Description
 --------- | ------
 !--...--  | Defines a comment
---------- | ------
+--------- | Defines the document type
  <A>      | Defines a hyperlink
 --------- | ------
 ------    | ------
