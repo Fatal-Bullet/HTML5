@@ -3,7 +3,7 @@ Tag       | Description
 !--...--  | Defines a comment
 --------- | Defines the document type
  <A>      | Defines a hyperlink
---------- | ------
+--------- | Defines an abbreviation or an acronym
 ------    | ------
 --------- | ------
 ------    | ------
