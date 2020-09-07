@@ -6,6 +6,6 @@ HTML é uma linguagem de marcação utilizada na construção de páginas na Web
 ## criador do HTML5
 Tim Berners-Lee
 
-Tag       | Description
+Tag       | Description | Suport
 --------- | ------
 !--...--  | Defines a comment
