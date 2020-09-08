@@ -8,4 +8,5 @@ Tim Berners-Lee
 
 Tag       | Description | Suport
 --------- | ------      | ------
-!--...--  | Defines a comment | ------
+--------- | ------      | ------
+--------- | ------      | ------
