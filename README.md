@@ -7,7 +7,7 @@ HTML é uma linguagem de marcação utilizada na construção de páginas na Web
 Tim Berners-Lee
 
 Tag       | Description | Suport
---------- | ------      | ------
+--------- | Defines a comment      | ------
 --------- | ------      | ------
 --------- | ------      | ------
 --------- | ------      | ------
