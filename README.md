@@ -18,58 +18,58 @@ Tag       | Description
 <area>    |	Defines an area inside an image map
 <article> |	Defines an article
 <aside>   |	Defines content aside from the page content
-<audio>	Defines embedded sound content
-<b>	Defines bold text
-<base>	Specifies the base URL/target for all relative URLs in a document
-<basefont>	Not supported in HTML5. Use CSS instead.
+<audio>|	Defines embedded sound content
+<b>|	Defines bold text
+<base>|	Specifies the base URL/target for all relative URLs in a document
+<basefont>|	Not supported in HTML5. Use CSS instead.
 Specifies a default color, size, and font for all text in a document
-<bdi>	Isolates a part of text that might be formatted in a different direction from other text outside it
-<bdo>	Overrides the current text direction
-<big>	Not supported in HTML5. Use CSS instead.
+<bdi>|	Isolates a part of text that might be formatted in a different direction from other text outside it
+<bdo>|	Overrides the current text direction
+<big>|	Not supported in HTML5. Use CSS instead.
 Defines big text
-<blockquote>	Defines a section that is quoted from another source
-<body>	Defines the document's body
-<br>	Defines a single line break
-<button>	Defines a clickable button
-<canvas>	Used to draw graphics, on the fly, via scripting (usually JavaScript)
-<caption>	Defines a table caption
-<center>	Not supported in HTML5. Use CSS instead.
+<blockquote>|	Defines a section that is quoted from another source
+<body>|	Defines the document's body
+<br>|	Defines a single line break
+<button>|	Defines a clickable button
+<canvas>|	Used to draw graphics, on the fly, via scripting (usually JavaScript)
+<caption>|	Defines a table caption
+<center>|	Not supported in HTML5. Use CSS instead.
 Defines centered text
-<cite>	Defines the title of a work
-<code>	Defines a piece of computer code
-<col>	Specifies column properties for each column within a <colgroup> element 
-<colgroup>	Specifies a group of one or more columns in a table for formatting
-<data>	Adds a machine-readable translation of a given content
-<datalist>	Specifies a list of pre-defined options for input controls
-<dd>	Defines a description/value of a term in a description list
-<del>	Defines text that has been deleted from a document
-<details>	Defines additional details that the user can view or hide
-<dfn>	Specifies a term that is going to be defined within the content
-<dialog>	Defines a dialog box or window
-<dir>	Not supported in HTML5. Use <ul> instead.
+<cite>|	Defines the title of a work
+<code>|	Defines a piece of computer code
+<col>|	Specifies column properties for each column within a <colgroup> element 
+<colgroup>|	Specifies a group of one or more columns in a table for formatting
+<data>|	Adds a machine-readable translation of a given content
+<datalist>|	Specifies a list of pre-defined options for input controls
+<dd>|	Defines a description/value of a term in a description list
+<del>|	Defines text that has been deleted from a document
+<details>|	Defines additional details that the user can view or hide
+<dfn>|	Specifies a term that is going to be defined within the content
+<dialog>|	Defines a dialog box or window
+<dir>|	Not supported in HTML5. Use <ul> instead.
 Defines a directory list
-<div>	Defines a section in a document
-<dl>	Defines a description list
-<dt>	Defines a term/name in a description list
-<em>	Defines emphasized text 
-<embed>	Defines a container for an external application
-<fieldset>	Groups related elements in a form
-<figcaption>	Defines a caption for a <figure> element
-<figure>	Specifies self-contained content
-<font>	Not supported in HTML5. Use CSS instead.
+<div>|	Defines a section in a document
+<dl>|	Defines a description list
+<dt>|	Defines a term/name in a description list
+<em>|	Defines emphasized text 
+<embed>|	Defines a container for an external application
+<fieldset>|	Groups related elements in a form
+<figcaption>|	Defines a caption for a <figure> element
+<figure>|	Specifies self-contained content
+<font>|	Not supported in HTML5. Use CSS instead.
 Defines font, color, and size for text
-<footer>	Defines a footer for a document or section
-<form>	Defines an HTML form for user input
-<frame>	Not supported in HTML5.
+<footer>|	Defines a footer for a document or section
+<form>|	Defines an HTML form for user input
+<frame>|	Not supported in HTML5.
 Defines a window (a frame) in a frameset
-<frameset>	Not supported in HTML5.
+<frameset>|	Not supported in HTML5.
 Defines a set of frames
-<h1> to <h6>	Defines HTML headings
-<head>	Contains metadata/information for the document
-<header>	Defines a header for a document or section
-<hr>	Defines a thematic change in the content
-<html>	Defines the root of an HTML document
-<i>	Defines a part of text in an alternate voice or mood
+<h1> to <h6>|	Defines HTML headings
+<head>|	Contains metadata/information for the document
+<header>|	Defines a header for a document or section
+<hr>|	Defines a thematic change in the content
+<html>|	Defines the root of an HTML document
+<i>|	Defines a part of text in an alternate voice or mood
 <iframe>	Defines an inline frame
 <img>	Defines an image
 <input>	Defines an input control
