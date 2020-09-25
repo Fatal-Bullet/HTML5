@@ -11,10 +11,10 @@ Tag       | Description
 !--...--  | Defines a comment
 !DOCTYPE| Defines the document type
 a       |	Defines a hyperlink
-<abbr>    |	Defines an abbreviation or an acronym
-<acronym> |	Not supported in HTML5. Use <abbr> instead. Defines an acronym
-<address> |	Defines contact information for the author/owner of a document
-<applet>  |	Not supported in HTML5. Use <embed> or <object> instead. Defines an embedded applet
+abbr    |	Defines an abbreviation or an acronym
+acronym> |	Not supported in HTML5. Use <abbr> instead. Defines an acronym
+address> |	Defines contact information for the author/owner of a document
+applet>  |	Not supported in HTML5. Use <embed> or <object> instead. Defines an embedded applet
 <area>    |	Defines an area inside an image map
 <article> |	Defines an article
 <aside>   |	Defines content aside from the page content
