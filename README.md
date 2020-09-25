@@ -135,5 +135,5 @@ Defines teletype text
 <u>|	Defines some text that is unarticulated and styled differently from normal text
 <ul>|	Defines an unordered list
 <var>|	Defines a variable
-<video>|	Defines embedded video content
-<wbr>|	Defines a possible line-break
+video>|	Defines embedded video content
+wbr>|	Defines a possible line-break
