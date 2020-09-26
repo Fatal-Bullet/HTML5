@@ -15,11 +15,11 @@ abbr    |	Defines an abbreviation or an acronym
 acronym> |	Not supported in HTML5. Use <abbr> instead. Defines an acronym
 address> |	Defines contact information for the author/owner of a document
 applet>  |	Not supported in HTML5. Use <embed> or <object> instead. Defines an embedded applet
-<area>    |	Defines an area inside an image map
-<article> |	Defines an article
-<aside>   |	Defines content aside from the page content
-<audio>|	Defines embedded sound content
-<b>|	Defines bold text
+area>    |	Defines an area inside an image map
+article> |	Defines an article
+aside>   |	Defines content aside from the page content
+audio>|	Defines embedded sound content
+b>|	Defines bold text
 <base>|	Specifies the base URL/target for all relative URLs in a document
 <basefont>|	Not supported in HTML5. Use CSS instead.
 Specifies a default color, size, and font for all text in a document
@@ -126,14 +126,14 @@ Defines strikethrough text
 <tfoot>|	Groups the footer content in a table
 <th>|	Defines a header cell in a table
 <thead>|	Groups the header content in a table
-<time>|	Defines a specific time (or datetime)
-<title>|	Defines a title for the document
-<tr>|	Defines a row in a table
-<track>|	Defines text tracks for media elements (<video> and <audio>)
-<tt>|	Not supported in HTML5. Use CSS instead.
+time>|	Defines a specific time (or datetime)
+title>|	Defines a title for the document
+tr>|	Defines a row in a table
+track>|	Defines text tracks for media elements (<video> and <audio>)
+tt>|	Not supported in HTML5. Use CSS instead.
 Defines teletype text
-<u>|	Defines some text that is unarticulated and styled differently from normal text
-<ul>|	Defines an unordered list
-<var>|	Defines a variable
+u>|	Defines some text that is unarticulated and styled differently from normal text
+ul>|	Defines an unordered list
+var>|	Defines a variable
 video>|	Defines embedded video content
 wbr>|	Defines a possible line-break
