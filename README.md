@@ -5,7 +5,7 @@ HTML é uma linguagem de marcação utilizada na construção de páginas na Web
 
 ## criador do HTML5
 Tim Berners-Lee
-
+´´
 ## Tags
 
 Tag       | Description 
@@ -139,3 +139,4 @@ ul>|	Defines an unordered list
 var>|	Defines a variable
 video>|	Defines embedded video content
 wbr>|	Defines a possible line-break
+---
